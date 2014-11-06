@@ -1,0 +1,10 @@
+#ifndef SHORTYLOGGING_H
+#define SHORTYLOGGING_H
+
+#include <QLoggingCategory>
+Q_DECLARE_LOGGING_CATEGORY(shorty_Main)
+Q_DECLARE_LOGGING_CATEGORY(shorty_Model)
+Q_DECLARE_LOGGING_CATEGORY(shorty_Reader)
+
+
+#endif // SHORTYLOGGING_H
