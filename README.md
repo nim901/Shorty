@@ -16,6 +16,7 @@ TODO and bugs:
 * Fixing more bugs.
 
 Main Window
+
 ![Image of main window](http://i.imgur.com/aNmQ95d.png)
 
 ![Image of main window](http://i.imgur.com/vrspncm.png)
@@ -27,9 +28,11 @@ Main Window
 Plugins are just a simple XML file with the application name, shortcut name and keys.
 Each shortcut has it's id (starting from 0), it's name, and the keys that triggers it.
 Modifiers keys that avilable are:
+
     Ctrl
     Alt
     Enter 
+    
 * Note: modifiers are case sensitive regular keys are not.
 
 ```xml
